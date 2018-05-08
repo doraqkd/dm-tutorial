@@ -1,3 +1,11 @@
 This is a test file.
 
 In this section, I will write a literature review.
+
+In this section, I will write an economic model.
+
+y = Ak?a
+
+Y/L=A(K/L)?a
+
+
